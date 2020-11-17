@@ -42,6 +42,8 @@ These are the tools I have utilized for the following project:
 
 ![](Images/Instacart-3.PNG)
 ## Conclusion
+**The Best model for prediction: Gradient Boost classifier with an accuracy of 90.47%.** 
+
 We have seen that using the powerful tools like Data exploratory analysis and certain machine learning algorithms can be used to get valuable insights about the customers’ shopping behavior.
 
 It is very profitable for companies to use the tool of data analytics to understand trends in sales and customers’ behavior, as it can be used to accurately forecast product related sales information.
@@ -54,11 +56,4 @@ Some important trends observed from the data set analyzed are:
 * Most Popular Department: Produce
 * Most Popular Aisle: Fresh Fruits
 * Most Re-ordered Product: Dairy Eggs
-
-* Most Frequently Ordered Product Pairs: Red Onion and Bag of Organic Bananas
-* Minimum number of orders per customer is 4 while maximum is 100
-* Average Frequency of Reordering: Weekly and Monthly
-* Average percentage of products which are reordered: 59%
 * Average number of products per order: 5
-* Best model for prediction: Gradient Boost classifier
-* Highest accuracy achieved: 90.47% 
