@@ -23,7 +23,7 @@ These are the tools I have utilized for the following project:
 
 ## Dataset Information
 
-**Data Set Name:** 'Instacart Market Basket Analysis'    [`link to Kaggle Dataset`](https://github.com/priyankabandekar31/Machine-Learning-from-disaster-on-Titanic-dataset/blob/main/Titanic_Machine_Learning_from_Disaster.ipynb) which contains information on anonymized grocery orders from more than 200,000 Instacart Users.
+**Data Set Name:** 'Instacart Market Basket Analysis'    [`link to Kaggle Dataset`](https://www.kaggle.com/c/instacart-market-basket-analysis/data) which contains information on anonymized grocery orders from more than 200,000 Instacart Users.
 
 **Source:**  Instacart from Kaggle Competitions
 
