@@ -35,6 +35,12 @@ These are the tools I have utilized for the following project:
 * Orders.csv - It is the main table containing details about the customer orders and tells which record belongs to which table, train, prior or test.
 * Products.csv - This dataset contains the listing of all the products with their product_id. It also contains the aisles and the departments that are included. 
 ## Analysis Methodology and Results
+
+![](Images/Instacart-1.PNG)
+
+![](Images/Instacart-2.PNG)
+
+![](Images/Instacart-3.PNG)
 ## Conclusion
 We have seen that using the powerful tools like Data exploratory analysis and certain machine learning algorithms can be used to get valuable insights about the customers’ shopping behavior.
 
