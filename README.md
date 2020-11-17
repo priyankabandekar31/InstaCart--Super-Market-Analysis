@@ -42,7 +42,7 @@ These are the tools I have utilized for the following project:
 
 ![](Images/Instacart-3.PNG)
 ## Conclusion
-**The Best model for prediction: Gradient Boost classifier with an accuracy of 90.47%.** 
+**The Best model for prediction is the Gradient Boost classifier with an accuracy of 90.47%.** 
 
 We have seen that using the powerful tools like Data exploratory analysis and certain machine learning algorithms can be used to get valuable insights about the customers’ shopping behavior.
 
