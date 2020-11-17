@@ -55,3 +55,10 @@ Some important trends observed from the data set analyzed are:
 * Most Popular Aisle: Fresh Fruits
 * Most Re-ordered Product: Dairy Eggs
 
+* Most Frequently Ordered Product Pairs: Red Onion and Bag of Organic Bananas
+* Minimum number of orders per customer is 4 while maximum is 100
+* Average Frequency of Reordering: Weekly and Monthly
+* Average percentage of products which are reordered: 59%
+* Average number of products per order: 5
+* Best model for prediction: Gradient Boost classifier
+* Highest accuracy achieved: 90.47% 
