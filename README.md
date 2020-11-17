@@ -1,5 +1,6 @@
 # InstaCart--Super-Market-Analysis
 Data Science final project for Instacart dataset retrieved through Kaggle to perform Market Basket Analysis
+
 **TO RUN THE CODE, DOWNLOAD THE PYTHON FILE AND USE PyScripter, PyDev, PyCharm, Google Colab or any other tools supported to open the .ipynb file**
 
 ## Abstract
