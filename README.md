@@ -34,3 +34,18 @@ These are the tools I have utilized for the following project:
 * Order_Product_Train.csv - This dataset contains information about the products (product_id) that were ordered by the customers. It also contains information about the order (add_to_cart_order) which tells us the products that were put into the cart and the information if the product was re-ordered (1) or not (0)
 * Orders.csv - It is the main table containing details about the customer orders and tells which record belongs to which table, train, prior or test.
 * Products.csv - This dataset contains the listing of all the products with their product_id. It also contains the aisles and the departments that are included. 
+## Analysis Methodology and Results
+## Conclusion
+We have seen that using the powerful tools like Data exploratory analysis and certain machine learning algorithms can be used to get valuable insights about the customers’ shopping behavior.
+
+It is very profitable for companies to use the tool of data analytics to understand trends in sales and customers’ behavior, as it can be used to accurately forecast product related sales information.
+
+Some important trends observed from the data set analyzed are:
+
+* Busiest days of week: Monday and Tuesday
+* Busiest Hours of Day: 10AM to 11AM
+* Most Popular Products: Bananas and Organic Bananas
+* Most Popular Department: Produce
+* Most Popular Aisle: Fresh Fruits
+* Most Re-ordered Product: Dairy Eggs
+
